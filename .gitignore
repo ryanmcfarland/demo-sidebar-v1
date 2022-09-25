@@ -1,0 +1,33 @@
+# React & Node
+node_modules/
+
+mtenv
+__pycache__/
+*.py[cod]
+#migrations/versions
+logs
+
+#Translation File
+*.mo
+
+#sqllite db
+*.db
+#migrations
+
+#Config
+.env
+env.bat
+rmenv
+ilenv
+insertleft
+config
+
+#Static Images
+app/static/images
+media
+
+#vscode 
+.vscode
+
+#personal
+notes*
